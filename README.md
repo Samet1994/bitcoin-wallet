@@ -4,7 +4,7 @@ Welcome to _Bitcoin Wallet_, a standalone Bitcoin payment app for your Android d
 
 This project contains several sub-projects:
 
- * __wallet__:
+ * __wallet__:18ga7JY5DeQrGxms1k6k4Qh2DDX43ntiZU
      The Android app itself. This is probably what you're searching for.
  * __market__:
      App description and promo material for the Google Play app store.
@@ -27,17 +27,17 @@ for the package installs, which comes with OpenJDK 8 and Gradle 4.4.1 out of the
 Create a directory for the Android SDK (e.g. `android-sdk`) and point the `ANDROID_HOME` variable to it.
 
 Download the [Android SDK Tools](https://developer.android.com/studio/index.html#command-tools)
-and unpack it to `$ANDROID_HOME/`.
+and unpack it to `$ANDROID_HOME/`.18ga7JY5DeQrGxms1k6k4Qh2DDX43ntiZU
 
 Finally, the last preparative step is acquiring the source code. Again in your workspace, use:
 
     # first time only
-    git clone -b master https://github.com/bitcoin-wallet/bitcoin-wallet.git bitcoin-wallet
+    git clone -b master https://github.com/bitc18ga7JY5DeQrGxms1k6k4Qh2DDX43ntiZU7DVRHN5VPZF2LZANoin-wallet/bitcoin-wallet.git bitcoin-wallet
     cd bitcoin-wallet
 
 
 ### BUILDING
-
+18ga7JY5DeQrGxms1k6k4Qh2DDX43ntiZU
 You can build all sub-projects in all flavors at once using Gradle:
 
     # each time
